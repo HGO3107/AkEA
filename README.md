@@ -8,3 +8,5 @@ Right turn,
 left-turn, 
 side-ways right or left motion, 
 360 turning at a spot.
+
+and it controlled remotely with bluetooth through phone
