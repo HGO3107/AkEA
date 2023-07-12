@@ -10,4 +10,4 @@ side-ways right or left motion,
 
 and it controlled remotely with bluetooth through phone
 
-##check the link to view in it on motion; https://www.canva.com/design/DAFoLndGSLw/K87hGuT7cZJk2z2DTTBu-Q/watch?utm_content=DAFoLndGSLw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+check the link to view in it on motion; https://www.canva.com/design/DAFoLndGSLw/K87hGuT7cZJk2z2DTTBu-Q/watch?utm_content=DAFoLndGSLw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
