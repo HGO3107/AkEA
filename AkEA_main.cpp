@@ -1,4 +1,3 @@
-
 #include <Servo.h>
 
 //Front Motors
@@ -16,18 +15,11 @@
 #define   motorBL_1     4
 #define   motorBL_2     2
 
-
-
-
 // Create the object for the four servos
 Servo frontRServo;  // front right wheel servo
 Servo frontLServo;  // front left wheel servo
 Servo backRServo;   // back right wheel servo
 Servo backLServo;   // back left wheel servo
-
-
-
-
 
 ///////////////intialize to straight position///////////////
 int frontRrotDeg = 90;
@@ -51,9 +43,7 @@ void setup() {
   frontLServo.attach(5);
   backRServo.attach(9);
   backLServo.attach(6);
-
   
- 
   pinMode(motorFR_1, OUTPUT);
   pinMode(motorFR_2, OUTPUT);
 
@@ -67,8 +57,6 @@ void setup() {
   //set the Front Left motor to off state
   digitalWrite(motorFL_1, LOW);
   digitalWrite(motorFL_2, LOW);
-
-
 
   pinMode(motorBR_1, OUTPUT);
   pinMode(motorBR_2, OUTPUT);
